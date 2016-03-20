@@ -35,7 +35,8 @@ library(RCurl)
 ## Get the relevant tweet data
 
     ## program is set up to read example data file stored locally on github
-    file.path <- "https://raw.githubusercontent.com/tactical-Data/Road-Safety-From-Twitter/master"
+    file.path <- "https://raw.github.com/ww44ss/tactical-Data/Road-Safety-From-Twitter/master"
+
 
     ##define file-reading function
     
